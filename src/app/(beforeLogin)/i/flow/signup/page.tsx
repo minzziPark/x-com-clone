@@ -1,3 +1,3 @@
-export default function Logout() {
-  return <main>Logout 페이지</main>;
+export default function Home() {
+  return <main>회원가입 모달</main>;
 }
